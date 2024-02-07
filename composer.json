@@ -2,7 +2,7 @@
     "name": "spatie/laravel-translatable",
     "description": "A trait to make an Eloquent model hold translations",
     "keywords": [
-        "spatie",
+        "spatie ",
         "laravel-translatable",
         "translate",
         "eloquent",
